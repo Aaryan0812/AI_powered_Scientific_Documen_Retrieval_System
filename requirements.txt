@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+azure-ai-formrecognizer
+azure-storage-blob
+azure-search-documents
+requests
+python-dotenv
